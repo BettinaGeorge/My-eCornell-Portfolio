@@ -1,4 +1,4 @@
-# 🏠 Airbnb Price Prediction with Machine Learning
+# Final Project: 🏠 Airbnb Price Prediction with Machine Learning
 
 This project was completed as part of the Break Through Tech AI Program’s Fall 2024 AI Studio. The goal was to explore a real-world dataset and apply the full machine learning life cycle — from data preprocessing to model evaluation — to solve a predictive task.
 
